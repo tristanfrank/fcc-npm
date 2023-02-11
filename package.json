@@ -1,0 +1,20 @@
+{
+	"name": "fcc-learn-npm-package-json",
+	"author": "Tristan Frank",
+	"description": "My fCC learn NPM package",
+	"keywords": ["freecodecamp", "npm", "backend"],
+	"license": "Tristan Frank",
+	"version": "1.0"
+	"dependencies": {
+		"express": "^4.14.0",
+		"@freecodecamp/example": "1.1.0"
+	},
+	"main": "server.js",
+	"scripts": {
+		"start": "node server.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://idontknow/todo.git"
+	}
+}
